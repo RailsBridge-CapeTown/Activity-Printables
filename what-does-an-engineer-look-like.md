@@ -1,5 +1,5 @@
 # ACTIVITY
-# "What does an engineer look like?"
+# What does an engineer<br>look like?
 
 ---
 
@@ -8,12 +8,12 @@
 ---
 
 # Write down answers to
-# "What does an a engineer look like?"
+# "What does an engineer<br>look like?"
 
 ---
 
-# Look up #ILookLikeAnEngineer on Twitter and find an awesome person there
+# Look up **#ILookLikeAnEngineer**<br>on Twitter and find an awesome person there
 
 ---
 
-# Introduce them (and yourself!) to someone else in the room
+# Introduce them<br>(and yourself!)<br>to someone in the room

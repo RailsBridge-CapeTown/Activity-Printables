@@ -8,22 +8,25 @@
 ---
 
 # 2. Login
-# Might take a minute or two
+# **Might take<br>a minute or two**
 
 ---
 
 # 3. Open a terminal
-# Run `install-railsbridge-rvm.sh`
-# Wait... :)
+# **Type**
+## `install-railsbridge-rvm.sh`
+# **Wait... :)**
 
 ---
 
 # 4. Open a new terminal
-# Run `bash --login`
+# **Type**
+# `bash --login`
 
 ---
 
-# 5. Run `rvm use 2.2`
+# 5. Type
+# `rvm use 2.2`
 
 ---
 

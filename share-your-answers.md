@@ -5,14 +5,26 @@
 
 # Grab a pen and sticky notes
 
+—
+
+# Write down your answers to the warm-up questions
+
+—
+
+# **What are three things you already know about programming?**
+
+—
+
+# **What do you plan to do with what you learn?**
+
 ---
 
-# Find three other people
+# Swap your answers<br>with someone else
 
----
+—
 
-# Ask them about their answers to the warm-up questions
+# Swap again<br>with someone new
 
----
+—
 
-# Write them down and stick them up on the wall
+# Put the sticky notes<br>up on the wall
