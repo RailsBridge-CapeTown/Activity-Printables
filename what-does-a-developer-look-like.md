@@ -3,16 +3,20 @@
 
 ---
 
-# Grab a pen and sticky notes
+# 1. Grab a pen<br>and sticky notes
 
 ---
 
-# Grab a card with<br>a question on
+# 2. Grab a card with<br>a question on
 
 ---
 
-# Find the answer
+# 3. Find the answer
 
 ---
 
-# Introduce the person<br>(and yourself!)<br>to someone in the room
+# 4. Introduce the person<br>(and yourself!)<br>to someone in the room
+
+---
+
+# 5. Go back to step 2! :)
