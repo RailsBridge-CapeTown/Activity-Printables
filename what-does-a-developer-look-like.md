@@ -7,7 +7,7 @@
 
 ---
 
-# 2. Grab a card with<br>a question on
+# 2. Grab a page with<br>a question on
 
 ---
 
