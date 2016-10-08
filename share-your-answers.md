@@ -3,13 +3,9 @@
 
 ---
 
-# Grab a pen and sticky notes
+# Write your answers to the warm-up questions on your graphic organiser
 
-—
-
-# Write down your answers to the warm-up questions
-
-—
+---
 
 # **What are three things you already know about programming?**
 
@@ -19,12 +15,8 @@
 
 ---
 
-# Swap your answers<br>with someone else
+# Share your answers with someone new
 
-—
+---
 
-# Swap again<br>with someone new
-
-—
-
-# Put the sticky notes<br>up on the wall
+# Share your answers with another someone new
