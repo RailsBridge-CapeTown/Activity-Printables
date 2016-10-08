@@ -22,7 +22,7 @@
 
 ---
 
-# Who funded GirlHype and now runs local Mozilla clubs?
+# Who founded GirlHype and now runs local Mozilla clubs?
 
 ---
 
