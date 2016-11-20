@@ -7,7 +7,11 @@
 
 ---
 
-# Write down a SMART goal on your card
+# What do you plan to do with what you learned?
+
+---
+
+# Write down a SMART goal on your graphic organiser
 
 ---
 
@@ -15,8 +19,8 @@
 
 ---
 
-# Write down your name and email address on the back of your card
+# Write down your name<br>and email address<br>on the back of your card
 
 ---
 
-# Swap cards with a buddy, and agree to email each other next week
+# Swap cards with a buddy, and agree to email<br>each other next week
